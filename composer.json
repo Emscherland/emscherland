@@ -1,0 +1,7 @@
+{
+  "name": "emscherland/emscherland",
+  "description": "Initial Empty Package",
+  "require": {
+    "php": ">=7.3.0"
+  }
+}
